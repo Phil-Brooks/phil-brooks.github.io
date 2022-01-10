@@ -29,12 +29,13 @@ author_profile: true
 
 -Involved with the design and planning of the course\
 -Organized guest speakers and led in-class discussions\
--Supervised 5 undergraduate research projects in the vertebrate natural history collection
+-Supervised 5 undergraduate research projects in the vertebrate natural history collection\
+-Took 2 students to present their work at an international conference
 
 
 ## Mentor, 4994 Undergraduate Research (2018-2019)
 
--Mentored 2 undergraduate independent research projects\ 
+-Mentored 2 undergraduate independent research projects\
 -One student presented a poster at a regional conference, the other has a manuscript in prep
 
 
