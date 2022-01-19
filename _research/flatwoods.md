@@ -9,9 +9,12 @@ collection: research
 order_number: 1
 ---
 
-![image-right]({{ site.url }}{{ site.baseurl }}/images/research/flatwoods_profile.jpg){: .align-right}
+<figure class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/flatwoods_profile.jpg" alt="">
+  <figcaption>Image credit: George Brooks</figcaption>
+</figure> 
 
-My PhD dissertation at Virginia Tech focussed on conducting a population viability analysis of flatwoods salamanders. Ultimately, this body of work informed several of the recovery criteria outlined in the recovery plan for flatwoods salamanders, and was used to develop the recovery implementation strategy. 
+My PhD dissertation at Virginia Tech focussed on conducting a population viability analysis of flatwoods salamanders. 
 
 Using information on growth and survival obtained through drift fence monitoring of flatwoods salamander breeding populations, I constructed integral projection models (IPMs) to estimate extinction probabilities under different management scenarios. 
 
@@ -20,6 +23,8 @@ To build the IPM I developed growth curves, the first of their kind, that jointl
 We found that population growth was most sensitive to the survival of adults in the terrestrial environment, suggesting that common forms of management (e.g., rearing larvae in cattle tanks) may be insufficient to maintain population viability. 
 
 Scaling up from individual populations to the landscape level, I developed one of the first spatially-explicit metapopulation models for a pond-breeding amphibian (Aquat. Conser. 2019), and developed a protocol to guide future reintroduction efforts (PeerJ 2021).
+
+Ultimately, this body of work informed several of the recovery criteria outlined in the recovery plan for flatwoods salamanders, and was used to develop the recovery implementation strategy. 
 <br>
 <br>
 
